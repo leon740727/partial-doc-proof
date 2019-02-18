@@ -1,0 +1,21 @@
+{
+  "name": "partial-doc-proof",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leon",
+  "license": "ISC",
+  "dependencies": {
+    "merkletreejs": "0.0.22",
+    "ramda": "^0.26.1"
+  },
+  "devDependencies": {
+    "@types/node": "^11.9.4",
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "typescript": "^3.3.3"
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "experimentalDecorators": true,
+        "jsx": "react",
+        "module": "commonjs"
+    },
+    "files": [
+        "index.ts",
+        "test/test.ts",
+    ],
+    "include": [
+    ]
+}
